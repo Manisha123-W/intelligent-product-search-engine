@@ -1,0 +1,51 @@
+name,category,price,color,brand,description,rating_sum,rating_count,image,text
+Black Running Shoes,Shoes,999,Black,Nike,Comfortable running shoes for daily use,0,0,,Black Running Shoes Comfortable running shoes for daily use Shoes
+White Sports Shoes,Shoes,1299,White,Adidas,Lightweight sports shoes for gym training,4,2,,White Sports Shoes Lightweight sports shoes for gym training Shoes
+Blue Casual Shoes,Shoes,899,Blue,Puma,Stylish casual shoes for everyday wear,0,0,,Blue Casual Shoes Stylish casual shoes for everyday wear Shoes
+Red Running Shoes,Shoes,1099,Red,Nike,Durable running shoes with strong grip,0,0,,Red Running Shoes Durable running shoes with strong grip Shoes
+Grey Sneakers,Shoes,1199,Grey,Reebok,Modern sneakers with soft cushioning,0,0,,Grey Sneakers Modern sneakers with soft cushioning Shoes
+Formal Leather Shoes,Shoes,1499,Black,Bata,Classic formal shoes for office use,0,0,,Formal Leather Shoes Classic formal shoes for office use Shoes
+Women's Sandals,Shoes,799,Brown,Metro,Comfortable sandals for women,0,0,,Women's Sandals Comfortable sandals for women Shoes
+Men's Slippers,Shoes,399,Black,Relaxo,Soft home slippers for men,0,0,,Men's Slippers Soft home slippers for men Shoes
+Sports Flip Flops,Shoes,299,Blue,Sparx,Lightweight flip flops for casual wear,0,0,,Sports Flip Flops Lightweight flip flops for casual wear Shoes
+Training Shoes,Shoes,1399,Black,Adidas,Training shoes for workouts and running,0,0,,Training Shoes Training shoes for workouts and running Shoes
+Blue Kurti,Clothing,699,Blue,Biba,Cotton kurti for summer wear,0,0,,Blue Kurti Cotton kurti for summer wear Clothing
+Pink Kurti,Clothing,570,Pink,Nicky,Soft cotton kurti for women,0,0,,Pink Kurti Soft cotton kurti for women Clothing
+Red T-shirt,Clothing,499,Red,Puma,Casual cotton t-shirt for men,0,0,,Red T-shirt Casual cotton t-shirt for men Clothing
+Black Hoodie,Clothing,899,Black,H&M,Winter hoodie with comfortable fabric,0,0,,Black Hoodie Winter hoodie with comfortable fabric Clothing
+Denim Jeans,Clothing,1199,Blue,Levis,Stylish denim jeans for daily wear,0,0,,Denim Jeans Stylish denim jeans for daily wear Clothing
+White Shirt,Clothing,799,White,Zara,Formal shirt for office and meetings,0,0,,White Shirt Formal shirt for office and meetings Clothing
+Yellow Top,Clothing,599,Yellow,Only,Trendy women's summer top,0,0,,Yellow Top Trendy women's summer top Clothing
+Green Jacket,Clothing,1299,Green,Woodland,Winter jacket with warm lining,0,0,,Green Jacket Winter jacket with warm lining Clothing
+Sports Shorts,Clothing,499,Black,Nike,Sports shorts for gym workouts,0,0,,Sports Shorts Sports shorts for gym workouts Clothing
+Track Pants,Clothing,699,Grey,Adidas,Comfortable track pants for training,0,0,,Track Pants Comfortable track pants for training Clothing
+Smartphone,Electronics,12000,Black,Samsung,Android smartphone with good camera,0,0,,Smartphone Android smartphone with good camera Electronics
+Wireless Headphones,Electronics,1500,White,Boat,Bluetooth wireless headphones,0,0,,Wireless Headphones Bluetooth wireless headphones Electronics
+Gaming Mouse,Electronics,800,Black,Logitech,High precision gaming mouse,0,0,,Gaming Mouse High precision gaming mouse Electronics
+Mechanical Keyboard,Electronics,2500,Black,Redragon,Gaming keyboard with RGB lights,0,0,,Mechanical Keyboard Gaming keyboard with RGB lights Electronics
+Laptop Backpack,Electronics,999,Black,HP,Durable laptop backpack with padding,0,0,,Laptop Backpack Durable laptop backpack with padding Electronics
+USB Flash Drive,Electronics,450,Silver,Sandisk,32GB USB storage device,0,0,,USB Flash Drive 32GB USB storage device Electronics
+Bluetooth Speaker,Electronics,1999,Black,JBL,Portable bluetooth speaker with bass,0,0,,Bluetooth Speaker Portable bluetooth speaker with bass Electronics
+Smart Watch,Electronics,2999,Black,Noise,Fitness tracking smartwatch,0,0,,Smart Watch Fitness tracking smartwatch Electronics
+LED Monitor,Electronics,8500,Black,Dell,24 inch full HD monitor,0,0,,LED Monitor 24 inch full HD monitor Electronics
+Laptop Stand,Electronics,799,Silver,Portronics,Adjustable aluminum laptop stand,0,0,,Laptop Stand Adjustable aluminum laptop stand Electronics
+Notebook A4,Books,100,Blue,Classmate,A4 size notebook for students,2,1,,Notebook A4 A4 size notebook for students Books
+Mathematics Guide,Books,350,White,Arihant,Competitive exam mathematics guide,0,0,,Mathematics Guide Competitive exam mathematics guide Books
+Python Programming Book,Books,450,White,Pearson,Complete guide to Python programming,0,0,,Python Programming Book Complete guide to Python programming Books
+Data Science Handbook,Books,550,White,OReilly,Introduction to data science concepts,0,0,,Data Science Handbook Introduction to data science concepts Books
+Machine Learning Basics,Books,600,White,Springer,Beginner friendly machine learning book,0,0,,Machine Learning Basics Beginner friendly machine learning book Books
+AI Fundamentals,Books,650,White,MIT Press,Fundamentals of artificial intelligence,0,0,,AI Fundamentals Fundamentals of artificial intelligence Books
+English Grammar Book,Books,300,White,Oxford,Grammar improvement guide,0,0,,English Grammar Book Grammar improvement guide Books
+Database Systems Book,Books,500,White,McGrawHill,Complete DBMS reference book,0,0,,Database Systems Book Complete DBMS reference book Books
+Operating System Concepts,Books,650,White,Wiley,Operating system concepts textbook,0,0,,Operating System Concepts Operating system concepts textbook Books
+Software Engineering Book,Books,550,White,Pearson,Software development principles guide,0,0,,Software Engineering Book Software development principles guide Books
+Leather Wallet,Accessories,499,Brown,Fossil,Genuine leather wallet for men,4,2,,Leather Wallet Genuine leather wallet for men Accessories
+Sunglasses,Accessories,699,Black,RayBan,UV protection stylish sunglasses,0,0,,Sunglasses UV protection stylish sunglasses Accessories
+Men's Belt,Accessories,399,Black,Woodland,Classic leather belt for men,0,0,,Men's Belt Classic leather belt for men Accessories
+Women's Handbag,Accessories,1199,Red,Caprese,Fashion handbag for women,0,0,,Women's Handbag Fashion handbag for women Accessories
+Sports Cap,Accessories,299,Blue,Nike,Cotton sports cap for outdoor use,0,0,,Sports Cap Cotton sports cap for outdoor use Accessories
+Travel Duffel Bag,Accessories,1499,Black,Wildcraft,Large travel duffel bag,0,0,,Travel Duffel Bag Large travel duffel bag Accessories
+Laptop Sleeve,Accessories,599,Grey,AmazonBasics,Protective sleeve for laptops,0,0,,Laptop Sleeve Protective sleeve for laptops Accessories
+Fitness Band,Accessories,1999,Black,Xiaomi,Smart fitness tracking band,0,0,,Fitness Band Smart fitness tracking band Accessories
+Keychain,Accessories,199,Silver,Generic,Stylish metal keychain,0,0,,Keychain Stylish metal keychain Accessories
+Backpack Rain Cover,Accessories,249,Green,Decathlon,Waterproof rain cover for bags,0,0,,Backpack Rain Cover Waterproof rain cover for bags Accessories
