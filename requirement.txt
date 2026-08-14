@@ -1,0 +1,9 @@
+streamlit
+pandas
+nltk
+requests
+speechrecognition
+sentence-transformers
+scikit-learn
+fuzzywuzzy
+python-levenshtein
