@@ -1,6 +1,6 @@
 streamlit
 pandas
-nltk
+nltk==3.9.1
 requests
 speechrecognition
 sentence-transformers
